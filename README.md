@@ -1,0 +1,4 @@
+# MVCFramework
+使用MVC的模式实现登录注册，并且带数字验证码.user.sql为数据库.还有配置文件
+dao.properties为dao到daoimplement的映射
+dbconfig.properties是jdbc连接mysql数据库
